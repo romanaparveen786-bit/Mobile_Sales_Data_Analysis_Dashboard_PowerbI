@@ -1,11 +1,10 @@
 # Mobile_Sales_Data_Analysis_Dashboard_PowerbI
 To analyze mobile sales performance across Indian cities, brands, and time periods- enabling data-driven decisions around inventory, marketing, and sales strategy using interactive Power BI visualizations.
 
-## Dataset Used 
+## Dataset Used [Mobile Sales Data.xlsx](https://github.com/user-attachments/files/29338393/Mobile.Sales.Data.xlsx)
 Domain: Retail / Mobile Sales
 Region: India (pan-India city-level data)
 Fields included:
-
 Sales amount, Quantity, Transactions
 City, Brand, Mobile Model
 Month, Day Name
@@ -53,4 +52,4 @@ The near-equal split across payment methods suggests customers are comfortable a
 Seasonal dips in April and peaks in mid-year (July–August) suggest opportunities for targeted promotions during slow months. 
 This analysis can assist brand managers and sales teams in optimizing stock allocation, payment partnerships, and regional marketing campaigns.
 
-Dashboard <img width="1330" height="741" alt="Project" src="https://github.com/user-attachments/assets/b1c1511b-bcdb-4a30-809d-d6926fdb3f1c" />
+## Dashboard <img width="1330" height="741" alt="Project" src="https://github.com/user-attachments/assets/b1c1511b-bcdb-4a30-809d-d6926fdb3f1c" />
