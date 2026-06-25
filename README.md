@@ -14,13 +14,13 @@ Customer Ratings: (1–5 scale)
 
 ## KPI Tracked
 
-Total Sales- ₹769M
+Total Sales: ₹769M
 
-Total Quantity Sold- 19K units
+Total Quantity Sold: 19K units
 
-Total Transactions- 4K
+Total Transactions: 4K
 
-Average Sales per Transaction- ₹40K
+Average Sales per Transaction: ₹40K
 
 ## Process
 
@@ -56,15 +56,15 @@ Slicers: Month, Mobile Model, Payment Method, Brand, Day Name
 
 **Sales Performance**
 
-Apple leads in total sales (161.6M) with 3,932 units — highest quantity too
+Apple leads in total sales (161.6M) with 3,932 units: highest quantity too
 
-Samsung is second (160M, 3,923 units) — very close race with Apple
+Samsung is second (160M, 3,923 units): very close race with Apple
 
 **Quantity Trends (Monthly)**
 
-Peak month: March (1,696 units) — strongest demand
+Peak month: March (1,696 units): strongest demand
 
-Lowest: June (1,597) — notable mid-year dip
+Lowest: June (1,597):  notable mid-year dip
 
 
 **Payment Methods**
@@ -73,26 +73,26 @@ Nearly equal split across all 4 methods (~22–26% each)
 
 Credit Card slightly leads (25.89%), UPI slightly lowest (22.83%)
 
-No single dominant payment preference — good diversity
+No single dominant payment preference: good diversity
 
 **Geographic Coverage**
 
-Strong presence across North and South India — Delhi, Mumbai, Bangalore, Chennai, Kolkata, Hyderabad
+Strong presence across North and South India: Delhi, Mumbai, Bangalore, Chennai, Kolkata, Hyderabad
 
 Tier-2 cities also covered (Jodhpur, Gorakhpur, Patna, Rajkot)
 
 **Sales by Day**
 
-Saturday peaks (~115M) — weekend buying behavior
-Wednesday is lowest (~105M) — mid-week slump
+Saturday peaks (~115M): weekend buying behavior
+Wednesday is lowest (~105M): mid-week slump
 
 
 
 **Customer Ratings**
 
-Rating 4 dominates (185 reviews) — generally positive sentiment
+Rating 4 dominates (185 reviews): generally positive sentiment
 
-Rating 1 is only 67 — low dissatisfaction rate
+Rating 1 is only 67: low dissatisfaction rate
 
 Healthy skew toward 3–5 ratings
 
