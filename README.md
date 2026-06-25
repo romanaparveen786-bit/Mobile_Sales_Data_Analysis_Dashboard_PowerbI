@@ -54,19 +54,51 @@ Slicers: Month, Mobile Model, Payment Method, Brand, Day Name
 
 ## Project Insights
 
-- Apple leads in total sales (₹161.6M) and quantity (3,932 units), closely followed by Samsung (₹160M).
-  
-- Saturday records the highest sales (₹115M); Wednesday is the lowest (₹105M) and weekend demand is stronger.
-  
-- Payment methods are nearly equally distributed- UPI (26.25%), Credit Card (25.89%), Cash (25.03%), Debit Card (22.83%), indicating diverse customer preferences.
+**Sales Performance**
 
-- April shows the lowest quantity sold (1,451 units); July and August peak at 1,700 and 1,592 units respectively.
-  
-- iPhone SE, OnePlus Nord, and Galaxy Note 20 are the top-performing models by sales value.
+Apple leads in total sales (161.6M) with 3,932 units — highest quantity too
 
-- Customer ratings skew positive and majority of customers rated 4 or 5, with 100% rating at 5 stars being the most common response.
-  
-- Major sales hubs include Delhi, Mumbai, Lucknow, Kolkata, and Bangalore based on map bubble size.
+Samsung is second (160M, 3,923 units) — very close race with Apple
+
+**Quantity Trends (Monthly)**
+
+Peak month: March (1,696 units) — strongest demand
+
+Lowest: June (1,597) — notable mid-year dip
+
+
+**Payment Methods**
+
+Nearly equal split across all 4 methods (~22–26% each)
+
+Credit Card slightly leads (25.89%), UPI slightly lowest (22.83%)
+
+No single dominant payment preference — good diversity
+
+**Geographic Coverage**
+
+Strong presence across North and South India — Delhi, Mumbai, Bangalore, Chennai, Kolkata, Hyderabad
+
+Tier-2 cities also covered (Jodhpur, Gorakhpur, Patna, Rajkot)
+
+**Sales by Day**
+
+Saturday peaks (~115M) — weekend buying behavior
+Wednesday is lowest (~105M) — mid-week slump
+
+
+
+**Customer Ratings**
+
+Rating 4 dominates (185 reviews) — generally positive sentiment
+
+Rating 1 is only 67 — low dissatisfaction rate
+
+Healthy skew toward 3–5 ratings
+
+**Top Mobile Models**
+
+iPhone SE, OnePlus Nord, Galaxy Note 20 appear as top 3 by sales volume in the bar chart
 
 ## Final Conclusion
 The dashboard reveals that Apple and Samsung dominate the Indian mobile retail market in this dataset, with weekend sales consistently outperforming weekdays. 
