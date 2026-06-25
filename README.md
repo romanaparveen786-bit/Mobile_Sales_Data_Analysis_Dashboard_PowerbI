@@ -52,4 +52,4 @@ The near-equal split across payment methods suggests customers are comfortable a
 Seasonal dips in April and peaks in mid-year (July–August) suggest opportunities for targeted promotions during slow months. 
 This analysis can assist brand managers and sales teams in optimizing stock allocation, payment partnerships, and regional marketing campaigns.
 
-## Dashboard <img width="1330" height="741" alt="Project" src="https://github.com/user-attachments/assets/b1c1511b-bcdb-4a30-809d-d6926fdb3f1c" />
+## Dashboard <img width="1330" height="741" alt="Project" src="https://github.com/user-attachments/assets/b1c1511b-bcdb-4a30-809d-d6926fdb3f1c" /> 
