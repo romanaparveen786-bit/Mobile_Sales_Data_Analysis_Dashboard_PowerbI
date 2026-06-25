@@ -3,10 +3,13 @@ To analyze mobile sales performance across Indian cities, brands, and time perio
 
 ## Dataset Used [Mobile Sales Data.xlsx](https://github.com/user-attachments/files/29338393/Mobile.Sales.Data.xlsx)
 **Domain**: Retail / Mobile Sales
+
 Region: India (pan-India city-level data)
-Fields included:
-Sales amount, Quantity, Transactions, City, Brand, Mobile Model, Month, Day Name
+
+Fields included: Sales amount, Quantity, Transactions, City, Brand, Mobile Model, Month, Day Name
+
 Payment Method: (UPI, Debit Card, Cash, Credit Card)
+
 Customer Ratings: (1–5 scale)
 
 ## KPI Tracked
