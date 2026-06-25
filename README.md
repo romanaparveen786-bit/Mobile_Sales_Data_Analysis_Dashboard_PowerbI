@@ -20,22 +20,22 @@ Average Sales per Transaction- ₹40K
 
 ## Process
 
-Data Collection — Gathered mobile sales transactional data across Indian cities
-Data Cleaning — Removed duplicates, handled nulls, standardized city/brand names
-Data Modeling — Built relationships between sales, time, geography, and product tables
-DAX Measures — Created calculated measures for Total Sales, Avg Sales, Transactions
-Visualization — Designed interactive dashboard with slicers (Month, Brand, Model, Day, Payment Method)
-Insight Extraction — Analyzed trends across time, geography, payment behavior, and ratings
+Data Collection: Gathered mobile sales transactional data across Indian cities
+Data Cleaning: Removed duplicates, handled nulls, standardized city/brand names
+Data Modeling: Built relationships between sales, time, geography, and product tables
+DAX Measures: Created calculated measures for Total Sales, Avg Sales, Transactions
+Visualization: Designed interactive dashboard with slicers (Month, Brand, Model, Day, Payment Method)
+Insight Extraction: Analyzed trends across time, geography, payment behavior, and ratings
 
 ## Dashboard Features
 
-Map Visual — Sales distribution across 20+ Indian cities
-Line Chart — Monthly quantity trend (Jan–Dec)
-Pie Chart — Transaction share by payment method
-Bar Chart — Sales by day of week; Sales by mobile model
-Rating Chart — Customer ratings distribution
-Table — Brand-wise total sales and quantity
-Slicers — Month, Mobile Model, Payment Method, Brand, Day Name
+Map Visual: Sales distribution across 20+ Indian cities
+Line Chart: Monthly quantity trend (Jan–Dec)
+Pie Chart: Transaction share by payment method
+Bar Chart: Sales by day of week; Sales by mobile model
+Rating Chart: Customer ratings distribution
+Table: Brand-wise total sales and quantity
+Slicers: Month, Mobile Model, Payment Method, Brand, Day Name
 
 ## Project Insights
 
